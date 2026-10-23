@@ -20,6 +20,10 @@ LearnMate is an intelligent course path advisor built using IBM Watsonx. It inte
 - Python
 - NLP, RAG
 
+---
 
+## About the developer
 
+Built by **Pallavi Vholgade**. Explore my AI / ML projects, experience, and skills in my [portfolio](https://pallavi-portfolio-preview.vercel.app).
 
+[LinkedIn](https://www.linkedin.com/in/pallavi-vholgade-05565b24b) · [Email](mailto:pallavivhalgade@gmail.com)
